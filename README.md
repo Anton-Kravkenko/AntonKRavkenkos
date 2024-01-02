@@ -1,5 +1,4 @@
 <h1 align="left">:wave: Hello there! I'm Anton Kravkenko</h1>
-<br>
 
 ## 🌐 Contact
 
