@@ -1,9 +1,6 @@
 <h1 align="left">:wave: Hello there! I'm Anton Kravkenko</h1>
 <br>
 ## 🌐 Contact
-- :airplane: &nbsp;**[Telegram]([https://t.me/siberiacancode](https://t.me/AntonKravcenco))**
-- :robot: &nbsp;**[Website](https://antonex.vercel.app)**
-
 - :airplane: &nbsp;**[Telegram](https://t.me/AntonKravcenco)**
 - :robot: &nbsp;**[Website](https://antonex.vercel.app)**
 
