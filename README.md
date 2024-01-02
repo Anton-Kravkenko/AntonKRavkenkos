@@ -1,13 +1,5 @@
 <h1 align="left">:wave: Hello there! I'm Anton Kravkenko</h1>
 
-## 🌐 Contact
-
-- :airplane: &nbsp;**[Telegram](https://t.me/AntonKravcenco)**
-- :robot: &nbsp;**[Website](https://antonex.vercel.app)**
-
-
-
-<br>
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
 
@@ -228,3 +220,11 @@
     </td>
   </tr> 
 </table>
+
+
+
+## 🌐 Contact
+
+- :airplane: &nbsp;**[Telegram](https://t.me/AntonKravcenco)**
+- :robot: &nbsp;**[Website](https://antonex.vercel.app)**
+
