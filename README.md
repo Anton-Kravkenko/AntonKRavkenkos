@@ -1,9 +1,12 @@
-<h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
+<h1 align="left">:wave: Hello there! I'm Anton Kravkenko</h1>
 <br>
 ## 🌐 Contact
-- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/c/SIBERIACANCODE)**
 - :airplane: &nbsp;**[Telegram]([https://t.me/siberiacancode](https://t.me/AntonKravcenco))**
 - :robot: &nbsp;**[Website](https://antonex.vercel.app)**
+
+- :airplane: &nbsp;**[Telegram](https://t.me/AntonKravcenco)**
+- :robot: &nbsp;**[Website](https://antonex.vercel.app)**
+
 <br>
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
@@ -12,12 +15,6 @@
 
 <table width='100%'>
   <tr>
-    <td align="center" width="110" height="90">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-      </a>
-      <br>javascript
-    </td>
     <td align="center" width="110" height="90">
       <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
