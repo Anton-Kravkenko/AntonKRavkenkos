@@ -4,6 +4,13 @@
 
 ##### In my free time, I also enjoy reading books on various topics and learning new tools and skills. In addition to my hobbies, I also diligently follow a healthy lifestyle and focus on working out at the gym.
 
+
+## 🌐 Links
+
+- :airplane: &nbsp;**[Telegram](https://t.me/AntonKravcenco)**
+- :robot: &nbsp;**[CV](https://antonex.vercel.app)**
+
+
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
 
 > General
@@ -225,9 +232,4 @@
 </table>
 
 
-
-## 🌐 Contact
-
-- :airplane: &nbsp;**[Telegram](https://t.me/AntonKravcenco)**
-- :robot: &nbsp;**[Website](https://antonex.vercel.app)**
 
