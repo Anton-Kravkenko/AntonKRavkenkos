@@ -1,9 +1,6 @@
 <h1 align="left">:wave: Hello there! I'm Anton Kravkenko</h1>
 
-#### I am a pro full stack developer with a year of experience building my own applications. I see programming as more than just code. It's my hobby, passion, and profession. Every project is an opportunity for me to not only expand my skills, but also to contribute to creating innovative solutions that improve the lives of users. 
-
-##### In my free time, I also enjoy reading books on various topics and learning new tools and skills. In addition to my hobbies, I also diligently follow a healthy lifestyle and focus on working out at the gym.
-
+#### Developer with 1.5+ years of experience (4-5 hours on average each day). Currently looking for a job, also working on my startup - booknex. Hobbies: sports, books
 
 ## 🌐 Links
 
