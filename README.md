@@ -5,7 +5,7 @@
 ## 🌐 Links
 
 - :airplane: &nbsp;**[Telegram](https://t.me/AntonKravcenco)**
-- :robot: &nbsp;**[CV](https://antonex.vercel.app)**
+
 
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
