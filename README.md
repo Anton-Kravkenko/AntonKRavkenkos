@@ -7,7 +7,7 @@
 - :airplane: &nbsp;**[Telegram](https://t.me/AntonKravcenco)**
 
 
-- :package: &nbsp;**[CV]([https://t.me/AntonKravcenco](https://f005.backblazeb2.com/file/Booknex/Anton_Kravchenko_Resume.pdf))**
+- :package: &nbsp;**[CV]([https://t.me/AntonKravcenco](https://f005.backblazeb2.com/file/Booknex/Anton_Kravchenko_Resume.pdf)**
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
 
