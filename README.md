@@ -1,6 +1,6 @@
 <h1 align="left">:wave: Hello there! I'm Anton Kravkenko</h1>
 
-#### Developer with 1.5+ years of experience (4-5 hours on average each day). Currently looking for a job, also working on my startup - booknex. Hobbies: sports, books
+#### Developer with 3+ years of experience (4-5 hours on average each day). Currently looking for a job, also working on my startup - booknex. Hobbies: sports, books
 
 ## 🌐 Links
 
